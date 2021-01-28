@@ -1,0 +1,12 @@
+- 开放产品
+  - [苏打 IoT](product/iot.md)
+- API
+  - [授权 API](api/open/oauth2.md)
+  - [IoT API <sup>:link:</sup>](http://docs-iot.sodalife.cc/#/ ":ignore")
+  - [Webhook](api/webhook.md)
+  - [异常](api/error.md)
+- 开发指南
+  - [开通应用](guide/client.md)
+  - [授权](guide/auth.md)
+  - [使用已签名请求](guide/signed_request.md)
+- [FAQ](faq.md)
